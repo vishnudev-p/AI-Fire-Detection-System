@@ -16,9 +16,9 @@ Install the required packages:
 pip install tensorflow keras opencv-python-headless numpy Pillow
 Place your dataset in the appropriate directory and specify the paths in train.py.
 
-Run train.py to train the model.
+Run-train.py to train the model.
 
-Run predict.py to use the trained model for prediction.
+Run-predict.py to use the trained model for prediction.
 Usage
 To train the model:
 python train.py
